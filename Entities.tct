@@ -9,3 +9,10 @@ i am going to post all the classes that i have used already
 Hope 
 u 
 Enjoy :p 
+The list of classes are :
+Company 
+ProduitFournis
+Client
+ClientFidele//Inherit from Client 
+
+
